@@ -1,4 +1,5 @@
 # React Wordle
+*Note: This repository is an open-source code of the Wordle game for Cyrillic Uzbek, which was working [**here**](https://wordlar.uz/), which had expired and not being maintained for a long time.
 
 This is a clone project of the popular word guessing game we all know and love. Made using React, Typescript, and Tailwind.
 
